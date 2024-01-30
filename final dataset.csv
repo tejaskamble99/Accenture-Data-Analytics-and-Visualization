@@ -1,0 +1,963 @@
+Category,score
+animals,0
+animals,10
+animals,70
+animals,35
+animals,30
+animals,35
+animals,5
+animals,70
+animals,10
+animals,60
+animals,65
+animals,35
+animals,70
+animals,60
+animals,50
+animals,75
+animals,0
+animals,15
+animals,70
+animals,35
+animals,35
+animals,45
+animals,30
+animals,70
+animals,20
+animals,15
+animals,0
+animals,70
+animals,15
+animals,12
+animals,70
+animals,15
+animals,70
+animals,0
+animals,0
+animals,12
+animals,75
+animals,30
+animals,5
+animals,60
+animals,72
+animals,70
+animals,12
+animals,10
+animals,65
+animals,72
+animals,72
+animals,50
+animals,65
+animals,20
+animals,60
+animals,75
+animals,5
+animals,50
+animals,72
+animals,12
+animals,70
+animals,70
+animals,60
+animals,5
+animals,0
+animals,65
+animals,20
+animals,5
+animals,12
+animals,10
+animals,5
+animals,72
+animals,15
+animals,45
+animals,35
+cooking,30
+cooking,20
+cooking,0
+cooking,70
+cooking,45
+cooking,30
+cooking,70
+cooking,5
+cooking,15
+cooking,0
+cooking,75
+cooking,75
+cooking,5
+cooking,35
+cooking,70
+cooking,10
+cooking,15
+cooking,10
+cooking,35
+cooking,45
+cooking,10
+cooking,70
+cooking,30
+cooking,45
+cooking,35
+cooking,0
+cooking,70
+cooking,15
+cooking,75
+cooking,30
+cooking,70
+cooking,70
+cooking,75
+cooking,65
+cooking,60
+cooking,0
+cooking,12
+cooking,5
+cooking,60
+cooking,15
+cooking,12
+cooking,65
+cooking,30
+cooking,50
+cooking,65
+cooking,5
+cooking,50
+cooking,5
+cooking,75
+cooking,70
+cooking,35
+cooking,50
+cooking,0
+cooking,5
+cooking,20
+cooking,35
+cooking,35
+cooking,12
+cooking,5
+cooking,0
+cooking,20
+culture,10
+culture,15
+culture,50
+culture,5
+culture,10
+culture,72
+culture,72
+culture,12
+culture,30
+culture,12
+culture,12
+culture,15
+culture,12
+culture,60
+culture,0
+culture,5
+culture,0
+culture,60
+culture,30
+culture,0
+culture,12
+culture,5
+culture,60
+culture,10
+culture,70
+culture,12
+culture,12
+culture,5
+culture,15
+culture,30
+culture,72
+culture,72
+culture,70
+culture,30
+culture,60
+culture,15
+culture,50
+culture,0
+culture,0
+culture,72
+culture,65
+culture,10
+culture,65
+culture,72
+culture,35
+culture,0
+culture,35
+culture,12
+culture,10
+culture,12
+culture,20
+culture,60
+culture,75
+culture,50
+culture,45
+culture,45
+culture,70
+culture,5
+culture,65
+culture,10
+culture,0
+culture,75
+dogs,35
+dogs,5
+dogs,15
+dogs,12
+dogs,35
+dogs,30
+dogs,20
+dogs,65
+dogs,35
+dogs,15
+dogs,60
+dogs,70
+dogs,75
+dogs,10
+dogs,12
+dogs,60
+dogs,0
+dogs,20
+dogs,12
+dogs,20
+dogs,75
+dogs,50
+dogs,50
+dogs,35
+dogs,75
+dogs,45
+dogs,15
+dogs,50
+dogs,70
+dogs,15
+dogs,30
+dogs,70
+dogs,72
+dogs,60
+dogs,60
+dogs,70
+dogs,45
+dogs,50
+dogs,60
+dogs,70
+dogs,70
+dogs,35
+dogs,45
+dogs,75
+dogs,70
+dogs,60
+dogs,12
+dogs,5
+dogs,5
+dogs,30
+dogs,12
+dogs,72
+dogs,35
+dogs,50
+education,12
+education,75
+education,72
+education,15
+education,10
+education,50
+education,10
+education,10
+education,72
+education,45
+education,15
+education,70
+education,15
+education,60
+education,45
+education,20
+education,45
+education,0
+education,60
+education,0
+education,60
+education,5
+education,45
+education,15
+education,20
+education,15
+education,45
+education,0
+education,10
+education,45
+education,5
+education,0
+education,75
+education,35
+education,70
+education,65
+education,45
+education,50
+education,12
+education,30
+education,65
+education,72
+education,60
+education,72
+education,12
+education,45
+education,20
+education,30
+education,20
+education,70
+education,10
+education,35
+education,65
+education,70
+education,70
+education,60
+education,65
+fitness,15
+fitness,10
+fitness,30
+fitness,60
+fitness,20
+fitness,60
+fitness,10
+fitness,70
+fitness,70
+fitness,45
+fitness,72
+fitness,70
+fitness,12
+fitness,50
+fitness,15
+fitness,45
+fitness,50
+fitness,5
+fitness,70
+fitness,60
+fitness,45
+fitness,65
+fitness,35
+fitness,45
+fitness,35
+fitness,60
+fitness,35
+fitness,72
+fitness,65
+fitness,5
+fitness,70
+fitness,70
+fitness,10
+fitness,70
+fitness,65
+fitness,35
+fitness,10
+fitness,30
+fitness,10
+fitness,70
+fitness,65
+fitness,65
+fitness,15
+fitness,70
+fitness,30
+fitness,65
+fitness,60
+fitness,12
+fitness,0
+fitness,72
+fitness,45
+fitness,60
+fitness,35
+fitness,60
+fitness,72
+fitness,10
+fitness,60
+fitness,20
+fitness,70
+fitness,30
+fitness,5
+fitness,50
+fitness,65
+fitness,0
+fitness,35
+food,0
+food,30
+food,20
+food,12
+food,45
+food,75
+food,65
+food,65
+food,70
+food,12
+food,72
+food,30
+food,5
+food,20
+food,70
+food,50
+food,50
+food,72
+food,72
+food,12
+food,75
+food,60
+food,70
+food,12
+food,0
+food,50
+food,0
+food,70
+food,5
+food,0
+food,75
+food,45
+food,70
+food,10
+food,70
+food,45
+Food,50
+food,10
+food,72
+food,12
+food,15
+food,0
+food,5
+food,75
+food,5
+food,15
+food,12
+food,10
+food,30
+food,45
+food,70
+food,65
+food,65
+food,30
+food,72
+food,5
+food,75
+food,72
+food,10
+food,12
+food,70
+food,15
+food,60
+food,60
+healthy eating,0
+healthy eating,10
+healthy eating,75
+healthy eating,30
+healthy eating,5
+healthy eating,65
+healthy eating,5
+healthy eating,60
+healthy eating,60
+healthy eating,5
+healthy eating,15
+healthy eating,70
+healthy eating,72
+healthy eating,15
+healthy eating,65
+healthy eating,15
+healthy eating,70
+healthy eating,60
+healthy eating,45
+healthy eating,15
+healthy eating,75
+healthy eating,12
+healthy eating,70
+healthy eating,65
+healthy eating,50
+healthy eating,0
+healthy eating,0
+healthy eating,72
+healthy eating,50
+healthy eating,65
+healthy eating,20
+healthy eating,65
+healthy eating,12
+healthy eating,65
+healthy eating,72
+healthy eating,35
+healthy eating,70
+healthy eating,12
+healthy eating,20
+healthy eating,5
+healthy eating,35
+healthy eating,10
+healthy Eating,12
+healthy eating,72
+healthy eating,65
+healthy eating,72
+healthy eating,20
+healthy eating,20
+healthy eating,20
+healthy eating,70
+healthy eating,30
+healthy eating,60
+healthy eating,35
+healthy eating,75
+healthy eating,72
+healthy eating,15
+healthy eating,30
+healthy eating,45
+healthy eating,45
+healthy eating,30
+public speaking,35
+public speaking,20
+public speaking,35
+public speaking,72
+public speaking,70
+public speaking,12
+public speaking,20
+public speaking,15
+public speaking,65
+public speaking,5
+public speaking,70
+public speaking,65
+public speaking,60
+public speaking,0
+public speaking,15
+public speaking,35
+public speaking,45
+public speaking,20
+public speaking,72
+public speaking,15
+public speaking,10
+public speaking,0
+public speaking,5
+public speaking,20
+public speaking,75
+public speaking,5
+public speaking,20
+public speaking,50
+public speaking,10
+public speaking,70
+public speaking,65
+public speaking,45
+public speaking,72
+public speaking,60
+public speaking,15
+public speaking,35
+public speaking,70
+public speaking,0
+public speaking,65
+public speaking,0
+public speaking,12
+public speaking,65
+public speaking,75
+public speaking,45
+public speaking,75
+public speaking,10
+public speaking,0
+science,65
+science,5
+science,0
+science,50
+science,72
+science,50
+science,60
+science,60
+science,75
+science,70
+science,45
+science,75
+science,60
+science,5
+science,75
+science,0
+science,65
+science,60
+science,10
+science,12
+science,70
+science,5
+science,10
+science,15
+science,50
+science,0
+science,72
+science,65
+science,5
+science,60
+science,65
+science,35
+science,72
+science,15
+science,70
+science,30
+science,20
+science,70
+science,10
+science,35
+science,65
+science,20
+science,70
+science,75
+science,70
+science,70
+science,20
+science,20
+science,10
+science,15
+science,70
+science,72
+science,50
+science,50
+science,70
+science,70
+science,5
+science,45
+science,5
+science,15
+science,0
+science,15
+science,70
+soccer,5
+soccer,75
+soccer,45
+soccer,35
+soccer,15
+soccer,10
+soccer,72
+soccer,50
+soccer,20
+soccer,5
+soccer,12
+soccer,0
+soccer,50
+soccer,20
+soccer,35
+soccer,0
+soccer,50
+soccer,5
+soccer,12
+soccer,50
+soccer,30
+soccer,20
+soccer,72
+soccer,65
+soccer,10
+soccer,5
+soccer,30
+soccer,75
+soccer,50
+soccer,50
+soccer,5
+soccer,10
+soccer,50
+soccer,70
+soccer,45
+soccer,70
+soccer,5
+soccer,50
+soccer,12
+soccer,20
+soccer,0
+soccer,72
+soccer,75
+soccer,65
+soccer,20
+soccer,30
+soccer,35
+soccer,5
+soccer,0
+soccer,45
+soccer,45
+soccer,65
+soccer,72
+soccer,10
+soccer,20
+soccer,30
+soccer,60
+soccer,30
+soccer,5
+soccer,15
+soccer,5
+soccer,70
+studying,50
+studying,30
+studying,70
+studying,30
+studying,30
+studying,10
+studying,70
+studying,5
+studying,70
+studying,30
+studying,20
+studying,20
+studying,15
+studying,72
+studying,15
+studying,15
+studying,70
+studying,75
+studying,45
+studying,70
+studying,35
+studying,12
+studying,70
+studying,70
+studying,72
+studying,20
+studying,60
+studying,20
+studying,50
+studying,20
+studying,60
+studying,72
+studying,65
+studying,30
+studying,60
+studying,20
+studying,72
+studying,12
+studying,75
+studying,5
+studying,45
+studying,70
+studying,5
+studying,45
+studying,12
+studying,60
+studying,5
+studying,15
+studying,30
+studying,0
+studying,0
+studying,72
+studying,72
+studying,12
+studying,12
+technology,15
+technology,70
+technology,75
+technology,15
+technology,5
+technology,72
+technology,35
+technology,50
+technology,0
+technology,60
+technology,60
+technology,0
+technology,12
+technology,65
+technology,20
+technology,20
+technology,45
+technology,35
+technology,75
+technology,72
+technology,20
+technology,45
+technology,5
+technology,72
+technology,70
+technology,15
+technology,30
+technology,0
+technology,45
+technology,50
+technology,72
+technology,60
+technology,65
+technology,5
+technology,72
+technology,5
+technology,0
+technology,30
+technology,65
+technology,10
+technology,45
+technology,75
+technology,15
+technology,20
+technology,12
+technology,65
+technology,15
+technology,15
+technology,35
+technology,75
+technology,10
+technology,12
+technology,30
+technology,70
+technology,12
+technology,70
+technology,65
+technology,5
+technology,5
+technology,5
+technology,45
+technology,70
+technology,0
+technology,10
+technology,60
+technology,75
+technology,5
+technology,15
+technology,10
+technology,70
+tennis,15
+tennis,30
+tennis,45
+tennis,35
+tennis,35
+tennis,12
+tennis,70
+tennis,15
+tennis,30
+tennis,70
+tennis,20
+tennis,10
+tennis,30
+tennis,75
+tennis,5
+tennis,12
+tennis,75
+tennis,0
+tennis,35
+tennis,75
+tennis,15
+tennis,30
+tennis,15
+tennis,50
+tennis,50
+tennis,65
+tennis,60
+tennis,70
+tennis,75
+tennis,30
+tennis,35
+tennis,60
+tennis,50
+tennis,15
+tennis,50
+tennis,10
+tennis,15
+tennis,45
+tennis,65
+tennis,5
+tennis,0
+tennis,70
+tennis,50
+tennis,15
+tennis,60
+tennis,35
+tennis,70
+tennis,72
+tennis,35
+tennis,10
+tennis,12
+tennis,75
+tennis,15
+tennis,0
+tennis,45
+tennis,65
+tennis,75
+travel,5
+travel,60
+travel,5
+travel,5
+travel,15
+travel,45
+travel,60
+travel,60
+travel,72
+travel,45
+travel,70
+travel,72
+travel,65
+travel,5
+travel,12
+travel,70
+travel,70
+travel,20
+travel,45
+travel,75
+travel,30
+travel,45
+travel,70
+travel,5
+travel,65
+travel,75
+travel,50
+travel,0
+travel,20
+travel,20
+travel,0
+travel,30
+travel,35
+travel,0
+travel,45
+travel,20
+travel,20
+travel,35
+travel,72
+travel,30
+travel,70
+travel,30
+travel,60
+travel,35
+travel,20
+travel,72
+travel,12
+travel,30
+travel,72
+travel,20
+travel,75
+travel,15
+travel,72
+travel,0
+travel,0
+travel,35
+travel,5
+travel,60
+travel,72
+travel,10
+travel,12
+travel,5
+travel,45
+travel,12
+travel,45
+veganism,70
+veganism,20
+veganism,50
+veganism,75
+veganism,65
+veganism,70
+veganism,15
+veganism,30
+veganism,60
+veganism,30
+veganism,30
+veganism,12
+veganism,75
+veganism,60
+veganism,75
+veganism,72
+veganism,45
+veganism,10
+veganism,65
+veganism,15
+veganism,20
+veganism,75
+veganism,12
+veganism,10
+veganism,20
+veganism,35
+veganism,20
+veganism,20
+veganism,60
+veganism,35
+veganism,50
+veganism,50
+veganism,30
+veganism,20
+veganism,60
+veganism,50
+veganism,50
+veganism,10
+veganism,50
+veganism,65
+veganism,12
+veganism,50
+veganism,0
+veganism,72
+veganism,45
+veganism,50
+veganism,70
+veganism,72
+veganism,70
